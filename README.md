@@ -13,55 +13,29 @@ Listen to Poetry – audio poetry for immersive listening
 How we built it
 We used Framer as our core platform to design and animate the site, creating a seamless interactive experience. For the 3D and animated visual elements, we used Spline, which we embedded into Framer. This allowed us to craft an engaging, storybook-like room with floating thoughts and smooth transitions. The project was built with zero-code tools, making it accessible to non-coders while still delivering a polished result.
 
-Challenges we ran into
+Challenges we ran into:
 Learning Curve: This was our first time using Framer and Spline, so figuring out UI states, animations, and component linking took some trial and error.
-
-
 Limited Time: Designing and building everything from scratch in just a few days was intense!
-
-
 Balance: Making the room poetic and dreamy while ensuring clarity and usability was tricky. We didn’t want the style to overpower the substance.
 
-
-
-Accomplishments that we're proud of
+Accomplishments that we're proud of:
 Created a fully functional, animated portfolio without writing a single line of traditional code
-
-
 Designed a space that feels emotionally rich and visually unique
-
-
 Learned and applied two new platforms (Framer + Spline) from scratch in under 4 days
-
-
 Received positive feedback for the storytelling and aesthetics!
 
 
-
-What we learned
+What we learned:
 How to build and prototype in Framer and bring in 3D assets from Spline
-
-
 The power of design tools to tell stories, not just build interfaces
-
-
 How visual language can enhance emotional storytelling, especially in creative portfolios
-
-
 How to balance creative ambition with technical limitations in a short timeframe
 
 
 
 What's next for The Poet's Room
 Mobile Optimization – make the room experience smooth and accessible on all devices
-
-
-Interactive Poetry Generator – powered by AI, where users can create or co-write poems with the poet’s style
-
-
 Room Customization – allow other poets to customize the space for their own portfolios
-
-
 Performance Tweaks – improve load times and add subtle audio effects for an even richer experience
 
 
