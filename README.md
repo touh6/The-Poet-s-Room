@@ -6,16 +6,8 @@ Poetry is more than words—it's emotion, memory, and identity. We wanted to cre
 What it does
 The Poet’s Room is an interactive portfolio experience for poets and creatives. Upon entering through a poetic-themed door animation, users arrive in a softly animated room where a character sits at a desk with headphones on—lost in thought. Floating above are interactive thought bubbles linking to:
 About Me – a poetic introduction to the creator
-
-
 Poetry – a collection of written works
-
-
 Listen to Poetry – audio poetry for immersive listening
-
-
-Contact – a way to connect with the poet
-
 
 
 How we built it
